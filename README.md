@@ -1,5 +1,5 @@
 Student ID 1: 2021494381, Shapenga Chibotu
-Student ID 2: 
+Student ID 2: 2021519996, Sichone  Mapalo
 
 This lab focuses on setting up essential web development tools and using GitHub for version control.
 Tools:
